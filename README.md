@@ -3,7 +3,7 @@
 benchParanumal Optimizations
 =======
 
-This repo uses several CUDA/HIP optimization methods to improve the performance of benchParanumal on GPUs. The optimizations are mostly impolemented in okl/bp1AxAffineTet3D.okl in feature/unified_driver branch
+This repo uses several CUDA/HIP optimization methods to improve the performance of benchParanumal on GPUs. The optimizations are mostly impolemented in okl/bp1AxAffineTet3D.okl in feature/unified_driver branch.
 
 benchParanumal
 =======
