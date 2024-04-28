@@ -1,5 +1,10 @@
 [![DOI](https://zenodo.org/badge/191792781.svg)](https://zenodo.org/badge/latestdoi/191792781)
 
+benchParanumal Optimizations
+=======
+
+This repo uses several CUDA/HIP optimization methods to improve the performance of benchParanumal on GPUs. The optimizations are mostly impolemented in okl/bp1AxAffineTet3D.okl in feature/unified_driver branch
+
 benchParanumal
 =======
 
